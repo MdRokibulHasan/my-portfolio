@@ -14,9 +14,10 @@ h1{
  .half-width{
      width: 50%;
      padding-left: 2%;
+     margin-bottom: 100px;
  }
  .half-width img{
-   width: 80%;
+   width: 70%;
  }
  .hereme{
      text-decoration: none;
